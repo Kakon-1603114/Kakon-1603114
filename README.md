@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kakon Karmoker 
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning differnt macine learning algorithms
-- 💞️ I’m looking to collaborate on kaggle machine learning projects
+- 🌱 I’m a passionate problem solver and learner
+- 💞️ I’m looking to collaborate on software development industry
 
 
 <!---
