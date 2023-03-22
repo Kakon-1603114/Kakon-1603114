@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kakon Karmoker 
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m a passionate problem solver and learner
+- 🌱 I’m a passionate problem solver and a learner
 - 💞️ I’m looking to collaborate on software development industry
 
 
